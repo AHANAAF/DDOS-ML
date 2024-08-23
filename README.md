@@ -39,21 +39,6 @@ Numerous DDoS detection techniques exist, but they often fall short in effective
   
   `F1 Score = 2 * (Recall * Precision) / (Recall + Precision)`
 
-- **Confusion Matrix**: The confusion matrix compares predicted and actual values, providing insight into algorithm performance.
-
-  ![Confusion Matrix](https://user-images.githubusercontent.com/69844239/127862308-636eabe8-5a0f-4509-985f-7c3216e968ab.png)
-
-## Flow Chart
-![Flow Chart](https://user-images.githubusercontent.com/69844239/127862059-404a8c1e-65fd-42f6-a1b8-a31d9fd4b665.png)
-
-## DDoS Report by Imperva
-![Imperva DDoS Report](https://user-images.githubusercontent.com/69844239/127859906-4638bbf5-dd5a-4521-a0f0-e2ab06f30478.png)
-
-## Most Common Types of DDoS Attacks
-![Common DDoS Attacks](https://user-images.githubusercontent.com/69844239/127860077-fc633342-8ddf-44ad-86d7-4bb1f7cd12db.png)
-
-## Proposed Model
-![Proposed Model](https://user-images.githubusercontent.com/69844239/127863514-797e5442-91a5-4797-bd46-287f79eb3858.jpg)
 
 ## Detection Results
 ![Detection Results](https://user-images.githubusercontent.com/69844239/127863218-a5eb5ea6-d60b-43b6-ad2e-03152aab411c.jpg)
