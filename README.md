@@ -39,8 +39,3 @@ Numerous DDoS detection techniques exist, but they often fall short in effective
   
   `F1 Score = 2 * (Recall * Precision) / (Recall + Precision)`
 
-
-## Detection Results
-![Detection Results](https://user-images.githubusercontent.com/69844239/127863218-a5eb5ea6-d60b-43b6-ad2e-03152aab411c.jpg)
-
-Feel free to ask if you need more information or have any questions regarding this project.
